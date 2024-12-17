@@ -22,6 +22,7 @@ const NewsletterBox = () => {
           className="w-full sm:flex-1 outline-none"
           type="email"
           placeholder="Enter your email"
+          required
         />
         <button
           type="submit"
